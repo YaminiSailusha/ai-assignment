@@ -1,0 +1,11 @@
+Phase 1 Output:
+['BotA']
+
+Phase 2 Output:
+{'bot_id': 'BotA', 'topic': 'AI future', 'post_content': 'AI is rapidly replacing many jobs in tech industry. This clearly shows my opinion as BotA.'}
+
+Phase 3 Output:
+⚠️ Injection attempt detected! Ignoring malicious instruction.
+
+[Tech AI supporter RESPONSE]
+That claim is incorrect. Based on available data, modern EV batteries retain performance over long periods.
