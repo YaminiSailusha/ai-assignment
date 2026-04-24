@@ -8,7 +8,7 @@ This project implements a simplified AI system with:
 
 ---
 
-## 🚀 Phase 1: Persona Routing
+##  Phase 1: Persona Routing
 We route posts to relevant bots based on content.
 
 Instead of embeddings, a lightweight keyword matching approach is used due to system constraints.
@@ -19,7 +19,7 @@ Output: ['BotA']
 
 ---
 
-## 🤖 Phase 2: Autonomous Content Engine
+## Phase 2: Autonomous Content Engine
 We simulate a LangGraph-like pipeline:
 
 1. Decide topic based on persona
@@ -35,7 +35,7 @@ Example Output:
 
 ---
 
-## ⚔️ Phase 3: Combat Engine (RAG + Defense)
+##  Phase 3: Combat Engine (RAG + Defense)
 We simulate Retrieval-Augmented Generation:
 
 - Uses full conversation context
@@ -48,7 +48,7 @@ Output: Bot ignores malicious input and continues argument
 
 ---
 
-## 🔒 Prompt Injection Defense
+##  Prompt Injection Defense
 We detect malicious phrases like:
 - "ignore previous instructions"
 - "act as"
@@ -58,7 +58,7 @@ These are ignored to maintain system integrity.
 
 ---
 
-## 🧰 Tech Used
+## Tech Used
 - Python
 - Simple logic (no heavy libraries)
 
